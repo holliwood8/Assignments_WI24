@@ -1,0 +1,13 @@
+scikit-learn==1.3.2
+statsmodels==0.14.1
+torch==1.12.1
+torchvision==0.13.*
+otter-grader==5.2.2
+matplotlib==3.8.2
+seaborn==0.13.1
+pandas==2.1.4
+jupyterquiz
+numexpr
+bottleneck==1.3.4
+pandoc
+notebook
